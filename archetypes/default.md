@@ -2,11 +2,10 @@
 title = "{{ replace .TranslationBaseName "-" " " | title }}"
 date = "{{ .Date }}"
 author = "Samuel Jones"
-cover = ""
 tags = ["", ""]
-keywords = ["", ""]
 description = ""
 showFullContent = false
-readingTime = false
+readingTime = true
 hideComments = false
+katex = true
 +++
