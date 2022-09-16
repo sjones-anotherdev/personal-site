@@ -1,3 +1,12 @@
++++
+title = "About"
+author = "Samuel Jones"
+description = "About the creator"
+showFullContent = false
+readingTime = false
+hideComments = false
++++
+
 # About the Site
 There's not much going on here. Just a silly goofy website I made for a little tomfoolery. Powered by [Hugo](https://gohugo.io/) with [Terminal by panr](https://github.com/panr/hugo-theme-terminal).
 

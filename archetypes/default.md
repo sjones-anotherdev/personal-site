@@ -1,5 +1,12 @@
----
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-draft: true
----
++++
+title = "{{ replace .TranslationBaseName "-" " " | title }}"
+date = "{{ .Date }}"
+author = "Samuel Jones"
+cover = ""
+tags = ["", ""]
+keywords = ["", ""]
+description = ""
+showFullContent = false
+readingTime = false
+hideComments = false
++++
