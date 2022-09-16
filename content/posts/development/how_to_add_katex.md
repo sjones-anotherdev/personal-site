@@ -2,7 +2,7 @@
 title = "How To Add KaTeX"
 date = "2022-09-16T09:48:56-04:00"
 author = "Samuel Jones"
-tags = ["Hugo", "KaTeX", "LaTeX"]
+tags = ["Hugo", "Development"]
 description = "How to add KaTeX to a Hugo site"
 showFullContent = false
 readingTime = true
