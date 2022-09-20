@@ -46,16 +46,16 @@ __During Combat__
 3. Get hit with a melee attack to trigger _Defensive Duelist_ for a +6
 
 # Calculation
-|     Description     | Value | Total |
-| :-----------------: | :---: | :---: |
-|  Unarmored Defense  |  24   |  24   |
-|        Race         |   1   |  25   |
-| Ring of Protection  |   1   |  26   |
-| Cloak of Protection |   1   |  27   |
-|      +3 Shield      |   5   |  32   |
-|        Rage         |   1   |  33   |
-|   Shield of Faith   |   2   |  35   |
-|        Haste        |   2   |  37   |
-|      3/4 Cover      |   5   |  42   |
-|  Defender Scimitar  |   3   |  45   |
-|  Defensive Duelist  |   6   |  __51__   |
+|     Description     | Value | Total  |
+| :-----------------: | :---: | :----: |
+|  Unarmored Defense  |  24   |   24   |
+|        Race         |   1   |   25   |
+| Ring of Protection  |   1   |   26   |
+| Cloak of Protection |   1   |   27   |
+|      +3 Shield      |   5   |   32   |
+|        Rage         |   1   |   33   |
+|   Shield of Faith   |   2   |   35   |
+|        Haste        |   2   |   37   |
+|      3/4 Cover      |   5   |   42   |
+|  Defender Scimitar  |   3   |   45   |
+|  Defensive Duelist  |   6   | __51__ |
