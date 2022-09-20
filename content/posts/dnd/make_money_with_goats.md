@@ -2,7 +2,7 @@
 title = "Make Money With Goats"
 date = "2022-09-16T10:17:04-04:00"
 author = "Samuel Jones"
-tags = ["DND"]
+tags = ["DND", "Guide"]
 description = "Making money with goats in DND 5e"
 showFullContent = false
 readingTime = true
