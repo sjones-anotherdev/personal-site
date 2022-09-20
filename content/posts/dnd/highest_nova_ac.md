@@ -2,7 +2,7 @@
 title = "Highest NOVA AC"
 date = "2022-09-20T09:29:38-04:00"
 author = "Samuel Jones"
-tags = ["DND", "Barbarian"]
+tags = ["DND", "Guide", "Barbarian"]
 description = "What is the highest NOVA AC and how to get it"
 showFullContent = false
 readingTime = true
