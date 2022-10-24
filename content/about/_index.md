@@ -15,4 +15,4 @@ What's up gamers. I'm just a goofy little lad who makes stuff for fun. A whimsic
 
 # Contact Me
 - [GitHub](https://github.com/sjones-anotherdev)
-- [Email - I probably won't respond btw](mailto:sjones@gmail.com)
+- [Email](mailto:sjones@gmail.com)
